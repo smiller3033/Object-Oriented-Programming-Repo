@@ -1,4 +1,5 @@
-## All Course Work completed in the OOP course
+## Battleship
 
-- check other branches for individual projects that are fun to use and difficult to make
-- examples: Battleship, Calculator, Amidst Us, and a Linked List
+- This game uses the CLI
+- Ships are only 1x1
+- The game board is only 5x5 and is zero indexed
