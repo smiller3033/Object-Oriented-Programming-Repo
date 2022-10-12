@@ -1,4 +1,5 @@
-## Amidst Us Game
+## LinkedList
 
-- simulates logic of Amoung Us to find the imposter
-- this is a scripted game with a predetermined outcome
+- this is a singly linked list
+- it uses a head and tail pointer
+- the challenge of this data structure was to create the method to add at a specified index
